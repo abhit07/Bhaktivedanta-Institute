@@ -807,7 +807,8 @@ footer span a:hover{
         display: flex;
         background: url("images/8.jpg") ;
         background-position: center;
-        background-size: 500px 300px;
+        background-size: 500px 650px;
+        background-repeat: no-repeat;
     }
 
     .about .about-content .right .text,
